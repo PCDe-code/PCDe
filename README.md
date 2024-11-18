@@ -1,5 +1,5 @@
 # PCDE
-This is the code of a personalized conversational debiasing framework (PCDe) for next POI recommendation with uncertain check-ins. We propose a personalized conversational debiasing framework for next POI recommendation with uncertain check-ins, equipped with two delicately designed components to mitigate scale bias and popularity bias.
+This is the code of a personalized conversational debiasing framework (PCDe) for next POI recommendation with uncertain check-ins. By leveraging the advantages of conversational techniques, PCDe captures personalized dynamic user preferences, enabling it to effectively mitigate both scale and popularity biases at a personalized level.
 
 
 ## Pre-requisits
