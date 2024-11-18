@@ -31,7 +31,7 @@ python RL_model.py --data_name <data_name>
 
 ## Data Description
 * `popular_POI_dict_v2.pkl`
-* The data of categorized popular POIs.
+* The data of popular POIs and unpopular POIs.
 
 * `user_category_probability.json`
 * The historical preference distribution of user u across different attributes.
